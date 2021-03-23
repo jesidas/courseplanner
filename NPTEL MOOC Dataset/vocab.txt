@@ -1,0 +1,196 @@
+Activation Function
+addition
+AI Platform 
+algorithm
+algorithm design
+Alternating Least Squares
+anomaly detection
+arithmetic
+artificial data synthesis
+artificial intelligence
+Attention Mechanism
+back propagation
+Bagging
+Base Formula
+basis
+Bayes' Theorem
+bias
+big data
+Binomial Theorem
+Bootstrap
+calculus
+Cartesian Plane
+Categorical Features
+ceiling analysis
+classification
+Cloud Build
+cluster analysis
+collaborative filtering
+Combination
+Component
+computation
+condition
+conditional probability
+Containers
+Conventional Q Learning
+Convolution Neural Networks
+Convolutional Layer
+cosine
+cost function
+Cronjobs
+Cross-validation
+data
+data analysis
+data compression
+data frame
+data type
+database
+decision boundary
+Decision Tree
+Deep Learning
+Deep neural Network
+Deep Q Learning
+Deployment
+Derivatives
+Detection algorithm
+determinant
+dictionary
+dimensionality reduction
+dot product
+Early Stopping
+eigenbasis
+eigenvalues and eigenvectors
+Exponent
+Exponential rate of growth
+Factorial
+Feature Engineering
+feature extraction
+Feature Interaction
+filter
+Forward Propagation
+function
+gaussian distribution
+gaussian elimination
+Google Cloud
+gradient descent
+gram schmidt
+Hashing trick
+Hierarchical Features
+Hybrid 
+hyperparameters
+hypothesis testing
+ide
+index
+Inner Product
+input/output
+integer
+inverse matrix
+iterative method
+k means
+kernel
+Kubeflow pipeline
+Kubernetes
+Learning Model Parameters
+Library
+linear algebra
+linear independence
+linear regression
+linear system
+list
+Logarithms
+logistic regression
+loop
+Long Short-Term Memory
+machine learning
+mapreduce
+mathematical model
+mathematics
+matrix
+Matrix Factorization
+matrix transformation
+mean normalization
+model selection
+modulus
+Multilayer perceptron
+Multinode Distributed Training
+matrix multiplication
+N-grams
+natural language processing
+Neural Model
+neural network
+nonlinear system
+normal equation
+Notation
+number theory
+Numpy
+online learning
+operating system
+optimization
+orthogonal
+orthonormal
+overfitting
+pagerank
+parallel algorithm
+parameters
+Permulation
+plot
+polynomial
+Pooling Layer
+Positional Encodings
+prediction
+principal component analysis
+print
+probability
+Product Rule
+programming language
+projection
+python
+PyTorch
+Q Learning
+Random Forest
+randomization
+read and write
+recommender system
+Recurrent Neural Network
+regularization
+reinforcement learning
+remainder
+Reproducible dataset
+Rolling Update Strategy
+scripting language
+Second Order
+Sequence Decoder
+Sequence Encoder
+set theory
+Sigma Notation
+Sigmoid Function
+Simplification Rule
+singular value decomposition
+sliding windows
+Softmax Function
+statistics
+Stochastic Boosting
+string
+Sum Rule
+supervised learning
+support vector machine
+Tangent Lines
+Tensorflow
+testing set
+Text detection
+Text synthesis
+Topic Modeling
+Train Model
+training set
+Transfer Learning
+Transformer
+Tune Model
+tuple
+unsupervised learning
+validation set
+variance
+vector
+Vectorization
+visualization
+Word Vectors
+Words to Vectors
